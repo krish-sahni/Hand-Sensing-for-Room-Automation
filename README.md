@@ -31,7 +31,7 @@ To replicate this project, you will need:
 - A 3D printer and filament
 - Wires and breadboard for connections
 
-### Steps:
+## Steps:
 
 1. Clone this repository:
    ```bash
@@ -42,16 +42,18 @@ To replicate this project, you will need:
 5. Set up the NRF24L01 modules for wireless communication.
 6. Power the system and test hand movements to control the connected device.
 
-### Usage:
+## Usage:
 
 1. Power on both Arduino boards.
 2. Place your hand in the detection area.
 3. Move your hand in the desired direction to trigger the corresponding action.
 4. The system will detect the motion and send a command to the second Arduino to perform the action (e.g., turning on/off a motor).
 
-### Impact and Results
+## Impact and Results
 
 This project showcased my ability to design and implement an automation system using sensor technology and microcontroller programming. The complexity of detecting hand motions in multiple directions and ensuring accurate gesture recognition provided valuable experience in algorithm development and hardware integration. The successful demonstration of controlling a motor based on hand movements highlights the practical applications of this system in smart home and automation technologies.
-### Future Work
+## Future Work
 
 Future enhancements for this project could include refining the motion detection algorithms for increased accuracy and reliability, integrating additional sensors for more complex gesture recognition, and expanding the system to control multiple devices simultaneously. Additionally, incorporating machine learning techniques to improve gesture recognition and adaptability could further enhance the system's capabilities. These advancements align with my career goals in automation, robotics, and control systems, providing further opportunities to develop and demonstrate my expertise in these fields.
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
